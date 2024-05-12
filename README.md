@@ -12,7 +12,7 @@
 
 
 <h2>⚡️ Algunos datos rapidos</h2>
-<img align="right" src="https://deployed-image-22.web.app/HollowKni.gif" width="480" />
+<img align="right" src="https://deployed-image-22.web.app/HollowKni.gif" width="380" />
 <video src="https://youtu.be/PlFJI_T5emg" width="480" ></video>
 <ul>
   <li>👻 Actualmente estoy trabajando como desarrollador junior.</li>
