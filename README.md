@@ -1,8 +1,6 @@
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" width="100%" /></a>
-</div>
 
-<!--![Banner](https://deployed-image-22.web.app/casa-kame.jpg)-->
+
+![Banner](https://deployed-image-22.web.app/casa-kame.jpg)
 <p align="center" style="color: white;">
     <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
 </p>
