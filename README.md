@@ -12,8 +12,7 @@
 
 
 <h2>⚡️ Algunos datos rapidos</h2>
-<img align="right" src="https://deployed-image-22.web.app/HollowKni.gif" width="380" />
-<video src="https://youtu.be/PlFJI_T5emg" width="480" ></video>
+<img align="right" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34_w200.webp" width="380" />
 <ul>
   <li>👻 Actualmente estoy trabajando como desarrollador junior.</li>
   <li>👨‍💻 Puedes ver algunos Pens que subo en <a href="https://codepen.io/Juan-Esteban-Ar-valo" target="_blank">Codepen</a></li>
