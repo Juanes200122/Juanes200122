@@ -1,5 +1,13 @@
-![Banner](https://deployed-image-22.web.app/casa-kame.jpg)
-<h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" width="100%" /></a>
+</div>
+
+<!--![Banner](https://deployed-image-22.web.app/casa-kame.jpg)-->
+<p align="center" style="color: white;">
+    <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
+</p>
+
+<h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2><img align="left" src="https://i.gifer.com/origin/e2/e2917a322c5c7247c308d53725f0189f_w200.webp" width="80" />
 <p>Soy un creador de experiencias en línea que se esfuerza por combinar un diseño atractivo con una funcionalidad impecable. Disfruto especialmente trabajar en tecnologías como HTML, CSS y JavaScript para crear interfaces únicas y cautivadoras🎯.
 </p>
 <p>
@@ -23,7 +31,7 @@
 </ul>
 </br>
 
-  ## 🛠 &nbsp;Tecnologias
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
   
   - 💻 &nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
