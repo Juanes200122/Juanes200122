@@ -1,3 +1,4 @@
+![Banner](https://deployed-image-22.web.app/casa-kame.jpg)
 <h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2>
 <p>Soy un creador de experiencias en línea que se esfuerza por combinar un diseño atractivo con una funcionalidad impecable. Disfruto especialmente trabajar en tecnologías como HTML, CSS y JavaScript para crear interfaces únicas y cautivadoras🎯.
 </p>
