@@ -42,6 +42,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+
 
 
 - 🛢 &nbsp;
