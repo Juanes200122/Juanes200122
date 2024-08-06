@@ -63,26 +63,10 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src=""   alt="" />
-     </a>
-    </p>
-    <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-    
-</tr>
-</table>
-</div>
+
+
+
 
 
 
@@ -93,29 +77,3 @@
 ![Flaticon](https://img.shields.io/badge/-Flaticon-FF5722?style=flat&logo=flaticon&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![Universe UI](https://img.shields.io/badge/-Universe%20UI-6C5CE7?style=flat&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Juanes200122/Juanes200122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
