@@ -63,6 +63,27 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src=""   alt="" />
+     </a>
+    </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+    
+</tr>
+</table>
+</div>
+
 
 
 ## Recursos y Herramientas
