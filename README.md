@@ -1,5 +1,5 @@
 
-![Banner](https://deployed-image-22.web.app/casa-kame.jpg)
+![Banner](assets/spectral_bannerJE.png)
 <p align="center" style="color: white;">
     <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
 </p>
