@@ -3,10 +3,11 @@
 <p align="center" style="color: white;">
     <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
 </p>
-
-<h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2><img align="left" src="https://i.gifer.com/origin/e2/e2917a322c5c7247c308d53725f0189f_w200.webp" width="80" />
+<h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2><img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="80"/>
 <p>Soy un creador de experiencias en línea que se esfuerza por combinar un diseño atractivo con una funcionalidad impecable. Disfruto especialmente trabajar en tecnologías como HTML, CSS y JavaScript para crear interfaces únicas y cautivadoras🎯.
 </p>
+</br>
+</br>
 <p>
     <a href="https://www.linkedin.com/in/juan-estaban-ar%C3%A9valo-056bab240/" target="_blank" rel="Linkedin">
       <img src="https://img.shields.io/badge/-@JuanEsteban-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/juan-estaban-ar%C3%A9valo-056bab240/" alt="LinkedIn Badge">
