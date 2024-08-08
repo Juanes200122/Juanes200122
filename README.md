@@ -1,5 +1,5 @@
 
-![Banner](assets/spectral_bannerJE.png)
+![Banner](assets/spectral_bannerJE-v2.png)
 <p align="center" style="color: white;">
     <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
 </p>
