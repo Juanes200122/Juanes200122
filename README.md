@@ -1,4 +1,6 @@
 <p align="center">ORIA Web Solutions🚀 <a href="https://oria-web.vercel.app/" target="_blank" rel="ORIA WEB SOLUTIONS"> la empresa desarrolladora de software que necesitas</p> </a>
+<p align="center">Programacion JavaScript | Astro🚀 | Desarrollador Web | Trabajando en World Pos Solutions | Remoto | UI-UX ⭐</p>
+
 
 ![Banner](assets/banner-github.png)
 <p align="center" style="color: white;">
@@ -16,8 +18,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/juan-estaban-ar%C3%A9valo-056bab240/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/jeacsi.official_022?igsh=MWJ6MHRwcnhoZXVxbQ==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-
 
 <h2>⚡️ Algunos datos rapidos</h2>
 <img align="right" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34_w200.webp" width="380" />
