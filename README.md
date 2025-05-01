@@ -1,4 +1,3 @@
-<p align="center">ORIA Web Solutions🚀 <a href="https://oria-web.vercel.app/" target="_blank" rel="ORIA WEB SOLUTIONS"> la empresa desarrolladora de software que necesitas</p> </a>
 <p align="center">Programacion JavaScript | Astro🚀 | Desarrollador Web | Trabajando en World Pos Solutions | Remoto | UI-UX ⭐</p>
 
 
