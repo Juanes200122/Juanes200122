@@ -1,22 +1,21 @@
-<p align="center">Programacion JavaScript | Astro🚀 | Desarrollador Web | Trabajando en World Pos Solutions | Remoto | UI-UX ⭐</p>
+<p align="center">Upwork | UI/UX | Freelancer⭐</p>
 
 
-![Banner](assets/banner-github.png)
+![Banner](assets/banner.png)
 <p align="center" style="color: white;">
     <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
 </p>
 
-<h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2><img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
-<p>Soy un creador de experiencias en línea que se esfuerza por combinar un diseño atractivo con una funcionalidad impecable. Disfruto especialmente trabajar en tecnologías como HTML, CSS y JavaScript para crear interfaces únicas y cautivadoras🎯.</p>
-<p>Descubre los proyectos más recientes en los que he estado trabajando, desde interfaces de usuario hasta aplicaciones web completas</p>
+<h2>Hey 👋, Soy <a href="">Juan Esteban</a></h2><img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100"/>
+<p>Desarrollador web con 2+ años de experiencia en análisis y desarrollo de software en Colombia.</p>
+<p>He trabajado en empresas donde fortalecí mis habilidades como Front-End Developer, adquiriendo sólidos conocimientos en desarrollo web y creciendo profesionalmente en entornos colaborativos.</p>
+</br>
+<p>Además, he trabajado como desarrollador web freelance a través de la plataforma Upwork, acumulando más de un año de experiencia en proyectos para diversas empresas, lo que me ha permitido adaptarme a distintos retos y necesidades del cliente.</p>
 
 
-> Confío en mi habilidad para innovar y desarrollar soluciones que optimicen los procesos de trabajo a través del software.
 
 </br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/juan-estaban-ar%C3%A9valo-056bab240/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/jeacsi.official_022?igsh=MWJ6MHRwcnhoZXVxbQ==)
 
 <h2>⚡️ Algunos datos rapidos</h2>
 <img align="right" src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34_w200.webp" width="380" />
